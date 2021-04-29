@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048946883238",
+    "firebase_url": "https://origami-75bb3.firebaseio.com",
+    "project_id": "origami-75bb3",
+    "storage_bucket": "origami-75bb3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048946883238:android:ff7af3c2c70c75af6cd267",
+        "android_client_info": {
+          "package_name": "com.orrigami"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048946883238-i31od1pq8dcbjnmm73hh6t4ndqd3tqcn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCE7umxx8PFC5NdyfyBSPb6hlacO5vuURA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048946883238-i31od1pq8dcbjnmm73hh6t4ndqd3tqcn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
